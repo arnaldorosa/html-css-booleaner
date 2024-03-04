@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    font-size: 1em;
+}
+
+.banner {
+    height: 8em;
+    width: 100%;
+    background-color: lightskyblue;
+    background-image: url(img/pattern.png)
+}
+
+.banner-image {
+    margin-top: 3em;
+    margin-left: 1em;
+}
