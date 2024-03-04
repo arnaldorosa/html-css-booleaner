@@ -39,3 +39,19 @@ tbody {
 .middle-tr {
     background-color: white;
 }
+
+.pic1, .pic2 {
+    margin-top: 8px;
+    box-sizing: border-box;
+    padding: 12px;
+    color: white;
+    font-size: 24px;
+}
+
+.pic1 {
+    background-image: url(img/monitor.jpg); width: 270px; height: 208px;
+}
+
+.pic2 {
+    background-image: url(img/graph.jpg); width: 270px; height: 208px;
+}
