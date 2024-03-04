@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: 0;
     font-size: 1em;
 }
@@ -20,3 +20,22 @@ body {
     margin-top: 2em;
 }
 
+table {
+    text-align: left;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: lightskyblue;
+    color: white;
+    width: 100vh;
+}
+
+tbody {
+    background-color: #b1e5f2;
+}
+
+.middle-tr {
+    background-color: white;
+}
